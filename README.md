@@ -1,5 +1,9 @@
-BleedingCodes
+---
+##BleedingCodes
+
 This is the lab. Everything built here starts as a real problem.
+
+---
 
 Electronics technician by trade. Python developer by necessity — then by choice. I build tools for Linux environments, hardware workflows, and lab infrastructure. The production-ready ones move to MainbyteLabs.
 
