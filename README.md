@@ -5,17 +5,19 @@ Electronics technician by trade. Python developer by necessity — then by choic
 
 What's Here
 Project	What It Does
-pyqt-camera-dashboard	Multi-camera RTSP live dashboard — recording, encrypted credentials, auto-reconnect
-EvoForge	Artificial life simulator — neural agents evolve behavior through selection pressure, zero scripted logic
-sftp-ultra	Production SFTP engine — concurrent workers, SHA-256 verification, SQLite transfer journal
-security-scanner	Local read-only scanner for exposed secrets in JSON, config, and text files
-highlight-scraper	Captures mouse-highlighted text to SQLite — CLI, GUI, and system tray
-multi-file-diff-tool	Desktop GUI + CLI file diff and merge with HTML report export
-PureTrace	CPU-only path tracer — PBR materials, zero third-party dependencies
-lumen-lang	Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL
-ssh-vid-mover	SSH video transfer with size verification and safe .part download pattern
-matrix-rain	Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI
-microcam-benchscope	PCB inspection workstation — HDMI microscope, OCR chip reader, focus stacking (WIP)
+|---|---|
+|pyqt-camera-dashboard	| Multi-camera RTSP live dashboard — recording, encrypted credentials, auto-reconnect
+|EvoForge |	Artificial life simulator — neural agents evolve behavior through selection pressure, zero scripted logic
+|sftp-ultra	| Production SFTP engine — concurrent workers, SHA-256 verification, SQLite transfer journal
+|security-scanner	| Local read-only scanner for exposed secrets in JSON, config, and text files
+|highlight-scraper |	Captures mouse-highlighted text to SQLite — CLI, GUI, and system tray
+|multi-file-diff-tool |	Desktop GUI + CLI file diff and merge with HTML report export
+|PureTrace |	CPU-only path tracer — PBR materials, zero third-party dependencies
+|lumen-lang	| Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL
+|ssh-vid-mover	| SSH video transfer with size verification and safe .part download pattern
+|matrix-rain | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI
+|microcam-benchscope |	PCB inspection workstation — HDMI microscope, OCR chip reader, focus stacking (WIP)
+
 How This Connects to MainbyteLabs
 MainbyteLabs is the commercial side.
 
