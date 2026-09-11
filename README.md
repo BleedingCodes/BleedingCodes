@@ -17,7 +17,7 @@ The production-ready ones move to **[MainbyteLabs](https://github.com/MR-Mainbyt
 | [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) | Production SFTP engine — concurrent workers, SHA-256 verification, SQLite transfer journal |
 | [security-scanner](https://github.com/BleedingCodes/security-scanner) | Local read-only scanner for exposed secrets in JSON, config, and text files |
 | [highlight-scraper](https://github.com/BleedingCodes/highlight-scraper) | Captures mouse-highlighted text to SQLite — CLI, GUI, and system tray |
-| [multi-file-diff-tool](https://github.com/BleedingCodes/multi-file-diff-tool) | Desktop GUI + CLI file diff and merge with HTML report export |
+| [multi-file-diff-tool](https://github.com/BleedingCodes/multi_file_diff_tool/) | Desktop GUI + CLI file diff and merge with HTML report export |
 | [PureTrace](https://github.com/BleedingCodes/PureTrace) | CPU-only path tracer — PBR materials, zero third-party dependencies |
 | [lumen-lang](https://github.com/BleedingCodes/lumen-lang) | Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL |
 | [ssh-vid-mover](https://github.com/BleedingCodes/ssh-vid-mover) | SSH video transfer with size verification and safe .part download pattern |
