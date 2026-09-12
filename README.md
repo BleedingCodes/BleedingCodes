@@ -12,8 +12,9 @@ The production-ready ones move to **[MainbyteLabs](https://github.com/MR-Mainbyt
 
 | Project | What It Does |
 |---|---|
+| [microcam-benchscope](https://github.com/BleedingCodes/microcam-benchscope) | PCB inspection workstation — HDMI microscope, OCR chip reader, focus stacking, HDR fusion, solder bridge detection |
 | [pyqt-camera-dashboard](https://github.com/BleedingCodes/pyqt-camera-dashboard) | Multi-camera RTSP live dashboard — recording, encrypted credentials, auto-reconnect |
-| [EvoForge](https://github.com/BleedingCodes/EvoForge) | Artificial life simulator — neural agents evolve behavior through selection pressure, zero scripted logic |
+| [EvoForge](https://github.com/BleedingCodes/evoforge) | Artificial life simulator — neural agents evolve behavior through selection pressure, zero scripted logic |
 | [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) | Production SFTP engine — concurrent workers, SHA-256 verification, SQLite transfer journal |
 | [security-scanner](https://github.com/BleedingCodes/security-scanner) | Local read-only scanner for exposed secrets in JSON, config, and text files |
 | [highlight-scraper](https://github.com/BleedingCodes/highlight-scraper) | Captures mouse-highlighted text to SQLite — CLI, GUI, and system tray |
@@ -22,7 +23,6 @@ The production-ready ones move to **[MainbyteLabs](https://github.com/MR-Mainbyt
 | [lumen-lang](https://github.com/BleedingCodes/lumen-lang) | Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL |
 | [ssh-vid-mover](https://github.com/BleedingCodes/ssh-vid-mover) | SSH video transfer with size verification and safe .part download pattern |
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
-| [microcam-benchscope](https://github.com/BleedingCodes/microcam-benchscope) | PCB inspection workstation — HDMI microscope, OCR chip reader, focus stacking *(WIP)* |
 
 ---
 
@@ -46,11 +46,11 @@ Python 3.11+ · Linux · PyQt5/PySide6 · OpenCV · SQLite · SSH/SFTP · PyGame
 
 ## Background
 
-IPC-A-610 | IPC/WHMA-A-620 | J-STD-001 Certified  
-Electronics Test Technician III @ L3Harris  
+IPC-A-610 | IPC/WHMA-A-620 | J-STD-001 Certified
+Electronics Test Technician III @ L3Harris
 Philadelphia, PA
 
 ---
 
-*Built by someone who reads schematics and writes production Python.*  
+*Built by someone who reads schematics and writes production Python.*
 **[MainbyteLabs](https://github.com/MR-MainbyteLabs)** · **[LinkedIn](https://linkedin.com/in/michael-rivera-c0ding)** · mr.mainbytelabs@gmail.com
