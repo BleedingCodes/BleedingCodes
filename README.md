@@ -24,15 +24,14 @@ The production-ready ones move to **[MainbyteLabs](https://github.com/MR-Mainbyt
 | [ssh-vid-mover](https://github.com/BleedingCodes/ssh-vid-mover) | SSH video transfer with size verification and safe .part download pattern — [Linux Network Camera SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Linux_network_camera_sop.md) |
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
 | [BleedingTones](https://github.com/BleedingCodes/BleedingTones) | Terminal audio tool — random sound playback, ambient shuffle, scheduled triggers, and category-aware notify dispatch |
+
 ---
 
 ## How This Connects to MainbyteLabs
 
 **[MainbyteLabs](https://github.com/MR-MainbyteLabs)** is the commercial side.
 
-Tools built here that solve real problems get production-hardened documentation,
-support, and service offerings over there. If you are looking for something you
-can deploy with a setup guide and a support line — that is where to go.
+The production-ready ones move to MainbyteLabs. Everything else stays here because some problems demand a solution and some moods demand BleedingTones.
 
 If you want to see how things are built — you are already in the right place.
 
