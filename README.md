@@ -38,12 +38,18 @@ If you want to see how things are built — you are already in the right place.
 ---
 
 ## Stack
-![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PySide6](https://img.shields.io/badge/GUI-PySide6-green)
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-Video-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
- · PyQt5/PySide6 · SQLite · PyGame · X11
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
+![FFmpeg](https://img.shields.io/badge/Recording-FFmpeg-purple)
+![PyAV](https://img.shields.io/badge/PyAV-Bindings-blueviolet)
+![SQLite](https://img.shields.io/badge/Storage-SQLite-003B57?logo=sqlite&logoColor=white)
+![pygame](https://img.shields.io/badge/Audio%20%2F%20Display-pygame-orange)
+![Linux](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=white)
+![X11](https://img.shields.io/badge/Display-X11%20%2F%20xwinwrap-informational)
+![SSH](https://img.shields.io/badge/Transport-SSH%20%2F%20SFTP-yellow)
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
 
