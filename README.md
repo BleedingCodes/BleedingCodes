@@ -38,8 +38,12 @@ If you want to see how things are built — you are already in the right place.
 ---
 
 ## Stack
-
-Python 3.11+ · Linux · PyQt5/PySide6 · OpenCV · SQLite · SSH/SFTP · PyGame · X11
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Video-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
+ · PyQt5/PySide6 · SQLite · PyGame · X11
 
 ---
 
