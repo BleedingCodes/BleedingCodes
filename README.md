@@ -23,7 +23,7 @@ The production-ready ones move to **[MainbyteLabs](https://github.com/MR-Mainbyt
 | [lumen-lang](https://github.com/BleedingCodes/lumen-lang) | Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL |
 | [ssh-vid-mover](https://github.com/BleedingCodes/ssh-vid-mover) | SSH video transfer with size verification and safe .part download pattern — [Linux Network Camera SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Linux_network_camera_sop.md) |
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
-| [BleedingTones](https://github.com/BleedingCodes/BleedingTones) | Terminal audio tool — random sound playback, ambient shuffle, scheduled triggers, and category-aware notify dispatch |
+| [BleedingTones](https://github.com/BleedingCodes/BleedingTones) | Terminal audio tool — spontaneous sound triggers for builds, scripts, and CI hooks. Because sometimes the Mii victory theme is the correct response. |
 
 ---
 
