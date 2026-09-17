@@ -24,7 +24,8 @@ The production-ready ones move to **[MainbyteLabs](https://github.com/MR-Mainbyt
 | [ssh-vid-mover](https://github.com/BleedingCodes/ssh-vid-mover) | SSH video transfer with size verification and safe .part download pattern — [Linux Network Camera SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Linux_network_camera_sop.md) |
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
 | [meta-prompt-engine](https://github.com/BleedingCodes/meta-prompt-engine) | Browser-based prompt engineering tool — engineers structured prompts for Claude, GPT-4o, and Gemini with real streaming API calls and visible block architecture |
-| [guided-build-framework](https://github.com/BleedingCodes/guided-build-framework) | AI prompt framework — idea generation, execution-focused evaluation, and guided build sessions that prevent overengineering |
+| [guided-build-framework](https://github.com/BleedingCodes/guided-build-framework) | Original AI prompt framework for idea generation and execution-focused stress test evaluation. Converted into rd-idea-engine. |
+| [rd-idea-engine](https://github.com/BleedingCodes/rd-idea-engine) | Three-option R&D research and stress-test tool — browser app (OpenAI), Python CLI (Anthropic), fully local browser app (Ollama). Point it at any company or product, generate improvement ideas, stress test them before committing any time. MIT license. |
 | [BleedingTones](https://github.com/BleedingCodes/BleedingTones) | Terminal audio tool — spontaneous sound triggers for builds, scripts, and CI hooks. Because sometimes the Mii victory theme is the correct response. |
 
 ---
