@@ -1,11 +1,13 @@
 # BleedingCodes
 
-**This is the lab. Everything built here starts as a real problem.**
+**This is the open source lab. Everything built here starts as a real problem.**
 
-Electronics technician by trade. Python developer by necessity — then by choice.
-I build tools for Linux environments, hardware workflows, and lab infrastructure.
-The production-ready ones move to **[MainbyteLabs](https://github.com/MR-MainbyteLabs)**.
+Electronics technician by trade. Python developer by necessity... then by choice.
+I build Linux tools, Linux Network environments, hardware workflows, and experiment with AI and Python.
 
+Programs live here because some problems demand BleedingTones to be the solution.
+
+If you want Open Source built Tools — you are already in the right place.
 ---
 
 ## What's Here
@@ -32,11 +34,11 @@ The production-ready ones move to **[MainbyteLabs](https://github.com/MR-Mainbyt
 
 ## How This Connects to MainbyteLabs
 
+The specialized Docs move to **[MainbyteLabs](https://github.com/MR-MainbyteLabs)**.
+
+Detailed docs. Open Source Freely
+
 **[MainbyteLabs](https://github.com/MR-MainbyteLabs)** is the commercial side.
-
-The production-ready ones move to MainbyteLabs. Everything else stays here because some problems demand a solution and some moods demand BleedingTones.
-
-If you want to see how things are built — you are already in the right place.
 
 ---
 
