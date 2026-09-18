@@ -5,7 +5,18 @@ Most of what's here started because I needed it at one point or another.
 Some of it is just me exploring AI and Python because I like knowing how things work under the hood.
 
 Everything runs on Linux. Everything is Python.
-
+---
+ 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Linux](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen)
+![pygame](https://img.shields.io/badge/GUI-pygame-orange)
+![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
+![OpenCV](https://img.shields.io/badge/CV-OpenCV-red)
+![SSH](https://img.shields.io/badge/Transport-SSH%20%2F%20SFTP-yellow)
+![SQLite](https://img.shields.io/badge/Storage-SQLite-blue)
+![numpy](https://img.shields.io/badge/Math-NumPy-blue)
+ 
 ---
 
 ## What's Here
