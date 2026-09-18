@@ -36,10 +36,6 @@ If you want Open Source built Tools — you are already in the right place.
 
 The specialized Docs move to **[MainbyteLabs](https://github.com/MR-MainbyteLabs)**.
 
-Detailed docs is the Specialty
-
-**[MainbyteLabs](https://github.com/MR-MainbyteLabs)** is the commercial side.
-
 ---
 
 ## Stack
