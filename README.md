@@ -23,6 +23,7 @@ Everything runs on Linux. Everything is Python.
 
 | Repo | What it does |
 |---|---|
+| [Biblesearch](https://github.com/BleedingCodes/biblesearch) | Bible Reference look-up tool — WEB version of the bible find a specific verse, chapter or  book. |
 | [microcam-benchscope](https://github.com/BleedingCodes/microcam-benchscope) | PCB inspection workstation — HDMI microscope, OCR, measurements, focus stacking, HDR |
 | [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) | SFTP engine built for production — concurrent workers, SHA-256 verification, SQLite journal |
 | [security-scanner](https://github.com/BleedingCodes/security-scanner) | Local read-only scanner for exposed secrets in JSON, config, and text files |
